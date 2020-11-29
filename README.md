@@ -4,12 +4,12 @@
 
 # Python
 * Basic
-  * 
+    * 
 
 # Deep Learning
 * Basic
-  *
+    *
 
 # Data Analysis
 * Basic
-  *
+    *
