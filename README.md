@@ -16,8 +16,8 @@
 *
 
 ## Deep Learning
-* DNN 모델의 기본 코드 형태
-* CNN 모델의 기본 코드 형태
+* <a href="https://github.com/aidalab-garnet/code4edu/blob/main/001_basic_dnn_model.ipynb">DNN 모델의 기본 코드 형태</a>
+* <a href="https://github.com/aidalab-garnet/code4edu/blob/main/002_basic_cnn_model.ipynb">CNN 모델의 기본 코드 형태</a>
 
 ## Data Analysis
 * 
