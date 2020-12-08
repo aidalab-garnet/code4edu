@@ -14,7 +14,7 @@
 * https://aidalab.tistory.com/71 참고
 
 ## Python
-*
+* <a href="https://github.com/aidalab-garnet/code4edu/blob/main/101_basic_python.ipynb">파이썬 입문 코드</a>
 
 ## Deep Learning
 * <a href="https://github.com/aidalab-garnet/code4edu/blob/main/001_basic_dnn_model.ipynb">DNN 모델의 기본 코드 형태</a>
